@@ -1,4 +1,2 @@
-hen
-peacock
-pigeon
-parrot
+class hen{
+}

@@ -1,3 +1,2 @@
-student
-employee
-test
+class test{
+}

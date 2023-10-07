@@ -1,3 +1,3 @@
-egg
-fish
-gun
+class egg{
+}
+

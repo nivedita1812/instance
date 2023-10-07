@@ -1,3 +1,2 @@
-apple
-bus
-cat
+class student{
+}

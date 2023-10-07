@@ -1,4 +1,2 @@
-java
-python
-c
-c++
+class emp{
+}
