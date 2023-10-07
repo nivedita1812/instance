@@ -1,0 +1,4 @@
+git
+aws
+junit
+kubernetes
